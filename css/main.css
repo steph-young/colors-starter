@@ -59,24 +59,29 @@ footer {
 /* Change the background colors below */
 
 @media (min-width: 768px) {
+
   header {
     background-color: lightgray;
   }
 
   #column-1 {
     background-color: darkgray;
+    width: 50%;
   }
 
   #column-2 {
     background-color: slategray;
+    width: 50%;
   }
 
   #column-3 {
     background-color: black;
+    width: 100%;
   }
 
   footer {
     background-color: lightgoldenrodyellow;
+    width: 100%;
   }
   
 }
@@ -90,14 +95,17 @@ footer {
 
   #column-1 {
     background-color: orange;
+    width: 33.3%;
   }
 
   #column-2 {
     background-color: yellow;
+    width: 33.3%;
   }
 
   #column-3 {
     background-color: green;
+    width: 33.3%;
   }
 
   footer {
